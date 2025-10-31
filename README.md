@@ -2,7 +2,7 @@
 
 <p align="center">
 A comprehensive subsystem designed to streamline HR processes such as time tracking, attendance monitoring, shift scheduling, and employee claims management.<br>
-Built with PHP, MySQL, and Bootstrap — it provides a seamless experience for both administrators and employees to manage workforce operations efficiently.
+Built with PHP, MySQL, and Bootstrap — it provides a seamless experience for administrators, managers, finance and employees to manage workforce operations efficiently.
 </p>
 
 <p align="center">
